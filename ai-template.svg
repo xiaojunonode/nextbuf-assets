@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="600" viewBox="0 0 720 600" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="720" height="600" fill="#0b0d11"/>
+  <text x="24" y="36" fill="#ffffff" font-size="22" font-weight="800">nextbuf 爆款帖的「AI 写作模板」</text>
+  <text x="24" y="60" fill="#8b98a9" font-size="13">扒了上百篇帖子后，90% 的 AI 长文都共用这 6 步</text>
+
+  <!-- card 1 -->
+  <g>
+    <rect x="20" y="78" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="94" width="42" height="42" rx="11" fill="#1e3a5f"/>
+    <text x="57" y="123" font-size="22" text-anchor="middle">🏷️</text>
+    <text x="92" y="104" fill="#ffffff" font-size="15" font-weight="700">1 · 标题套路</text>
+    <text x="92" y="126" fill="#aab4c2" font-size="13">关键词堆砌 + 情绪词：最强 / 完整 / 保姆级 / 2026 / 干货</text>
+    <text x="92" y="144" fill="#7cb3ff" font-size="12">例：「最强 2026 AI 渗透测试完整提示词」</text>
+  </g>
+
+  <!-- card 2 -->
+  <g>
+    <rect x="20" y="160" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="176" width="42" height="42" rx="11" fill="#3a2a5f"/>
+    <text x="57" y="205" font-size="22" text-anchor="middle">🪝</text>
+    <text x="92" y="186" fill="#ffffff" font-size="15" font-weight="700">2 · 钩子开头</text>
+    <text x="92" y="208" fill="#aab4c2" font-size="13">第二人称拉近距离：「今天给大家带来一篇…」「我知道你们很多人…」</text>
+    <text x="92" y="226" fill="#aab4c2" font-size="13">「说实话，AI 已经成为任何人手中的利器」</text>
+  </g>
+
+  <!-- card 3 -->
+  <g>
+    <rect x="20" y="242" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="258" width="42" height="42" rx="11" fill="#5f3a1e"/>
+    <text x="57" y="287" font-size="22" text-anchor="middle">❓</text>
+    <text x="92" y="268" fill="#ffffff" font-size="15" font-weight="700">3 · 背景设问</text>
+    <text x="92" y="290" fill="#aab4c2" font-size="13">用反问句当小标题，且不用 # 标题，纯文字带出背景</text>
+    <text x="92" y="308" fill="#7cb3ff" font-size="12">「为什么 2026 专用提示词如此重要？」</text>
+  </g>
+
+  <!-- card 4 -->
+  <g>
+    <rect x="20" y="324" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="340" width="42" height="42" rx="11" fill="#1e5f3a"/>
+    <text x="57" y="369" font-size="22" text-anchor="middle">🔢</text>
+    <text x="92" y="350" fill="#ffffff" font-size="15" font-weight="700">4 · 编号步骤</text>
+    <text x="92" y="372" fill="#aab4c2" font-size="13">大量「一、二、三 / 1.2.3.」逐条拆解，几乎无项目符号</text>
+    <text x="92" y="390" fill="#aab4c2" font-size="13">全靠编号撑起结构，正文动辄数千字</text>
+  </g>
+
+  <!-- card 5 -->
+  <g>
+    <rect x="20" y="406" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="422" width="42" height="42" rx="11" fill="#5f1e3a"/>
+    <text x="57" y="451" font-size="22" text-anchor="middle">✅</text>
+    <text x="92" y="432" fill="#ffffff" font-size="15" font-weight="700">5 · 亲测背书</text>
+    <text x="92" y="454" fill="#aab4c2" font-size="13">强化可信度：「我自己亲测过」「效果非常好」</text>
+    <text x="92" y="472" fill="#aab4c2" font-size="13">「几秒钟拿到完整分析报告」</text>
+  </g>
+
+  <!-- card 6 -->
+  <g>
+    <rect x="20" y="488" width="680" height="74" rx="14" fill="#12151b" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="36" y="504" width="42" height="42" rx="11" fill="#5f5a1e"/>
+    <text x="57" y="533" font-size="22" text-anchor="middle">📣</text>
+    <text x="92" y="514" fill="#ffffff" font-size="15" font-weight="700">6 · 结语 CTA</text>
+    <text x="92" y="536" fill="#aab4c2" font-size="13">点赞 / 收藏 / 关注 + 免责声明收尾，形成固定闭环</text>
+    <text x="92" y="554" fill="#7cb3ff" font-size="12">识别特征：无 # 标题、无项目符号、编号多、emoji 点缀</text>
+  </g>
+</svg>
